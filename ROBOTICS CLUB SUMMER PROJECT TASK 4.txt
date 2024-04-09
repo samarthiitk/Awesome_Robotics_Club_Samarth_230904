@@ -1,0 +1,7 @@
+ROBOTICS CLUB SUMMER PROJECT TASK 4
+
+I, Samarth Singh (230904), have always been fascinated by the working of robots and so I have chosen Robotic Arm as my Summer Camp Project which will acknowledge me about various domains of a robot including mechanics, elctronics, programming, etc. The robotic arm project is itself very curious as I will get to the new world of robotics. The learning values of the project like ROS, Inverse Kinematics, OOPS, etc have developed a keen interest in me to opt this project and so I have put it in my second preference as my summer project.
+
+I also wanted to take Gyrobot as my another project, if in case I do not get Robotic Arm but due to the limited prefernces I was unable to pick it up. A gyrobot is an interesting project for me due to its diverse applications in real life either in microwave, drones, etc. In addition to it the learning values like PCB designing, CAD designing, Ardiuno, etc have built an interst to opt for that project.
+
+  
